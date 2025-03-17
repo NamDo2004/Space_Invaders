@@ -8,3 +8,4 @@ This is an implementation of the ElGamal encryption algorithm using Windows Form
 -Decrypt ciphertext back to plaintext.
 - Automatically generate a random value for k.
 - Reset all fields to start over.
+![Image](https://github.com/user-attachments/assets/17ffc8fe-4a06-4422-90e4-81837a394f8f)
