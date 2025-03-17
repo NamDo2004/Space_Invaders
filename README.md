@@ -9,7 +9,7 @@ This is a classic Space Invaders game implemented in Python using the Pygame lib
 - Health bar for the player and lives counter.
 - Level progression with increasing enemy waves.
 - Game over screen when lives or health run out.
-
+![Image](https://github.com/user-attachments/assets/9b2adb2f-cf3f-4557-b0fc-e64c1a84396a)
 ## How It Works
 ### Classes
 1. **Laser**: Represents laser projectiles with movement, collision detection, and off-screen removal.
